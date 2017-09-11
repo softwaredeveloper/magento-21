@@ -2,4 +2,4 @@ magento
 =======
 
 To learn more about Magento visit my homepage:  
-http://www.panticz.de/magento
+# [Freelance magento developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
